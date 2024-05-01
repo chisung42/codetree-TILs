@@ -6,6 +6,8 @@ y = n%5
 z = y//3
 if (y%3 == 0):
     print(x+z)
+elif(n == 4):
+    print(-1)
 else:
 
     print(x+z+1)
