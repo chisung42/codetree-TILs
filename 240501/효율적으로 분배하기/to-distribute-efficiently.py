@@ -10,4 +10,4 @@ elif(n == 4):
     print(-1)
 else:
 
-    print(x+z+1)
+    print(x+z+2)
