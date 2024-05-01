@@ -5,9 +5,9 @@ y = n%5
 
 z = y//3
 if (y%3 == 0):
-    print(x+z+1)
+    print(x+z+2)
 elif(n == 4):
     print(-1)
 else:
 
-    print(x+z+2)
+    print(x+z+1)
